@@ -1,3 +1,14 @@
+# Como usar 
+- Clonar repositorio
+- terminal de comandos ubicarse en la ruta del proyecto y escribir:
+  ```
+  npm install
+  ```
+  luego para ejecutar el proyecto:
+  ```
+  node taller.js
+  ```
+
 # 1. Variables y Tipos de Datos
 
 Declarar variables y usar tipos de datos primitivos (`number`, `string`, `boolean`, `null`, `undefined`).
